@@ -1,0 +1,1 @@
+Isopeptide nitrogen atom reassigned from ASN to LYS

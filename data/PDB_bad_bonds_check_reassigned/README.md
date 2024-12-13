@@ -1,0 +1,1 @@
+Side chain re-assignment performed by Rob. In most of the structures the bond nitrogen had been assigned to Asn; this was fixed using the following pymol command (example): ```alter /2d6a_3_after_refine_links_added//D/ASN`293/ND2, (resn,resi,name)=('LYS',176,'NZ'); sort``` into filenames called "<...>_reassigned_NZ"
