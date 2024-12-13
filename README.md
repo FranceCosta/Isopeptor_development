@@ -1,5 +1,6 @@
 # Code for the development of Isopeptor, described in "Isopeptor: a tool for detecting intramolecular isopeptide bonds in protein structures"
 
+![image](./figures/f2.png)
 
 ## Dependencies:
 To reproduce use python version 3.12.2 with the following packages installed:
