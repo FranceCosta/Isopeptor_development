@@ -2,7 +2,7 @@
 
 ![image](./figures/f2.png)
 
-## Dependencies:
+## Dependencies:
 To reproduce use python version 3.12.2 with the following packages installed:
 
 - biotite 0.39.0
