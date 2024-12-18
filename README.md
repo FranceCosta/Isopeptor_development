@@ -1,5 +1,10 @@
 # Code for the development of Isopeptor, described in "Isopeptor: a tool for detecting intramolecular isopeptide bonds in protein structures"
 
+Run isopeptor with [colab](https://colab.research.google.com/github/FranceCosta/Isopeptor_development/blob/main/notebooks/Isopeptide_finder.ipynb)
+
+Or follow [these instructions](https://github.com/FranceCosta/isopeptor) to run locally.
+
+
 ## Dependencies:
 To reproduce use python version 3.12.2 with the following packages installed:
 
