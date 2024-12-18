@@ -2,7 +2,7 @@
 
 Run isopeptor with [colab](https://colab.research.google.com/github/FranceCosta/Isopeptor_development/blob/main/notebooks/Isopeptide_finder.ipynb)
 
-Or follow [these instructions](https://github.com/FranceCosta/isopeptor) to run locally.
+or follow [these instructions](https://github.com/FranceCosta/isopeptor) to run locally.
 
 
 ## Dependencies:
