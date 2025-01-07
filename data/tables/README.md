@@ -1,0 +1,26 @@
+# Table columns
+
+- PDB code
+- Chain
+- UniProt Id
+- Species
+- Name
+- Position 1 (Bond 1)
+- Residue 1
+- Position 2 (catalytic)
+- Residue 2 
+- Position 3 (Bond 2)
+- Residue 3
+- Is bonded
+- Isopeptide type: CnaA/B-like/Mutant
+- Domain insert in loop?
+- Insertion name?
+- Reference
+- Notes
+- Interchain: True if the bond is linking different protein chains
+- Bad rotamer: True if the intramolecular isopeptide bond side chains are in a sub-optimal geometry (determined by visual inspection)
+- Deposition date
+- Assigned bond: True if the bond has been assigned (determined by the presence of a specific LINK field in the deposited PDB structure)
+- Fixed: True if the bond originally was in a "Bad rotamer" state but it has been remodelled; 
+- Resolution
+- Unusual geometry/chemistry: True if the geometry is unusual (such as when the catalytic residue is not pointing thowards the bond residues)
